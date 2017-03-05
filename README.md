@@ -1,8 +1,6 @@
 # Angular 2
 
-Following the course **Getting Started with Angular 2+**
-
-https://school.scotch.io/getting-started-with-angular-2
+Following the course [**Getting Started with Angular 2+**](https://school.scotch.io/getting-started-with-angular-2)
 
 
 ## Structural Directive
@@ -41,10 +39,10 @@ Data flows OUT OF it one-way
 ### Two-Way Data Binding - "The Banana in a Box"
 
 ```javascript
-	[(ngModel)]="activeUser.name"
+[(ngModel)]="activeUser.name"
 ```
 
 
 ## Links
 
-Style Guide - https://angular.io/docs/ts/latest/guide/style-guide.html
+[Style Guide](https://angular.io/docs/ts/latest/guide/style-guide.html)
